@@ -1,0 +1,10 @@
+##
+## github.com/sudotto.
+##
+$the_cow = <<EOC
+  $thoughts
+	  _____
+	</. _ .\\>
+	 \\__^__/
+	 /     \\
+EOC
