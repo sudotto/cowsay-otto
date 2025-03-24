@@ -1,8 +1,8 @@
 # Cowsay Otto
 ~~An otter for cowsay~~
 An otter (or) multiple smaller otters, for cowsay
-!(img/otto.png "Otto")
-!(img/ottos.png "Ottos")
+![otto](img/otto.png)
+![ottos](img/ottos.png)
 ## Install
 - run `sudo bash install.sh` in this directory
 - common errors include
