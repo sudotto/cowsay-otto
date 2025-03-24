@@ -1,5 +1,6 @@
 # Cowsay Otto
-An otter for cowsay
+~~An otter for cowsay~~
+An otter (or) multiple smaller otters, for cowsay
 ## Install
 - run `sudo bash install.sh` in this directory
 - common errors include
@@ -7,3 +8,4 @@ An otter for cowsay
         - Solution: run the script with sudo permissions
 ## Usage
 - run `cowsay -f otto "text"`
+- run `cowsay -f ottos "text"`
